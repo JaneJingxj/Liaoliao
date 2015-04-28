@@ -38,8 +38,9 @@ public class ChatActivity extends ActionBarActivity implements ServiceConnection
     private String userJID;
     private ChatService.ChatController controller;
     private Chat chat;
+    private int i;
     /**
-     * 发送的信息输入框
+     * 发送的信息输入框 11111
      */
 
     private EditText textContent;
