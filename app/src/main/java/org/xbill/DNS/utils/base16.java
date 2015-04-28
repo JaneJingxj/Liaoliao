@@ -17,6 +17,7 @@ private static final String Base16 = "0123456789ABCDEF";
 
 private
 base16() {}
+    //我是朱胖子,我修改了这里
 
 /**
  * Convert binary data to a hex-encoded String
