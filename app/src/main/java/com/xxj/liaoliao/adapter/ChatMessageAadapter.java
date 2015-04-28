@@ -23,6 +23,8 @@ import java.util.List;
 public class ChatMessageAadapter extends BaseAdapter{
     /**
      * 当前聊天信息列表     我改变了它
+     *
+     *
      */
     private List<ChatMessage> messages;
 
